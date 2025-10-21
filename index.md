@@ -1,3 +1,7 @@
+- [x] Look at Yaktocat
+- [ ] Check md headers
+- [ ] Check code examples
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # This is an `<h1>` header, which is the largest
@@ -18,3 +22,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
